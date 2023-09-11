@@ -1,4 +1,8 @@
+
 ### This will be our great calculator. Please contribute by writing one of the functions
+def minus (a, b):
+    return a - b
+
 def main(): #accepts input, transmits to corresponding function and returns answer 
     my_string = str(input())
     num1 = my_string.split(' ')[0]
