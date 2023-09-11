@@ -16,5 +16,5 @@ answer = main()
 print(answer)
 
 def multiplication(num1, num2):
-    ans = num1 * ans2
+    ans = num1 * num2
     return ans
