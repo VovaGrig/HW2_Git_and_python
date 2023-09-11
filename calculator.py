@@ -14,3 +14,7 @@ def main(): #accepts input, transmits to corresponding function and returns answ
     return ans
 answer = main()
 print(answer)
+
+def multiplication(num1, num2):
+    ans = num1 * ans2
+    return ans
