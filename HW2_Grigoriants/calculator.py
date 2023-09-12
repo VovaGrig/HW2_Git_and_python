@@ -10,9 +10,9 @@ def multiplication(num1, num2): #multiplication of numbers
 
 def main(): #accepts input, transmits to corresponding function and returns answer 
     my_string = input()
-    num1 = float(my_string.split[0])
-    num2 = float(my_string.split[2])
-    sign = my_string.split[1]
+    num1 = float(my_string.split()[0])
+    num2 = float(my_string.split()[2])
+    sign = my_string.split()[1]
     if sign == "+":
         ans = plus(num1, num2)
     elif sign == "-":
