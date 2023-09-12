@@ -10,4 +10,4 @@
 
 Инсайд с нашего собрания:
 
-![alt text](https://drive.google.com/uc?export=view&id=181Ll1FVtIYlqSVfIOlHKuLzf1bF7Y1V1)
+![image](https://drive.google.com/uc?export=view&id=181Ll1FVtIYlqSVfIOlHKuLzf1bF7Y1V1)
