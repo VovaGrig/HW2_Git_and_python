@@ -1,4 +1,7 @@
 ### This will be our great calculator. Please contribute by writing one of the functions
+def multiplication(num1, num2): #multiplication of two numbers
+    return num1 * num2
+
 def main(): #accepts input, transmits to corresponding function and returns answer 
     my_string = str(input())
     num1 = my_string.split(' ')[0]
@@ -14,7 +17,3 @@ def main(): #accepts input, transmits to corresponding function and returns answ
     return ans
 answer = main()
 print(answer)
-
-def multiplication(num1, num2):
-    ans = num1 * num2
-    return ans
