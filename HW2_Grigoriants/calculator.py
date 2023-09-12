@@ -1,4 +1,6 @@
 ### This will be our great calculator. Please contribute by writing one of the functions
+def plus(num1, num2): #sum of numbers
+    return num1 + num2
 def multiplication(num1, num2): #multiplication of two numbers
     return num1 * num2
 
