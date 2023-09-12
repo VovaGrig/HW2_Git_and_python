@@ -11,6 +11,9 @@ def plus(num1, num2): #sum of numbers
 def multiplication(num1, num2): #multiplication of numbers
     return num1 * num2
 
+def minus (num1, num2):
+    return num1 - num2
+
 def main(): #accepts input, transmits to corresponding function and returns answer 
     my_string = input()
     num1 = float(my_string.split()[0])
