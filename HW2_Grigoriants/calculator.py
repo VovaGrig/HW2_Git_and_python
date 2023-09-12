@@ -1,6 +1,9 @@
 ### This will be our great calculator. Please contribute by writing one of the functions
 def division(num1, num2): #division of numbers
-    return num1 / num2 
+    if num2 == 0:
+        return "Dude, for real?"
+    else:
+        return num1 / num2 
   
 def plus(num1, num2): #sum of numbers
     return num1 + num2
